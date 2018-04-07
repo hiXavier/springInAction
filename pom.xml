@@ -9,9 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-
-        <module>springmvc-practice</module>
         <module>crazy-practice</module>
+        <module>spring-study</module>
+        <module>programming-pearls</module>
+        <module>design-pattern</module>
     </modules>
 
 
